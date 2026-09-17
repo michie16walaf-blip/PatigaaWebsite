@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>[CANONICAL URL PLACEHOLDER]/index.html</loc><priority>1.0</priority></url>
+  <url><loc>[CANONICAL URL PLACEHOLDER]/about.html</loc><priority>0.8</priority></url>
+  <url><loc>[CANONICAL URL PLACEHOLDER]/services.html</loc><priority>0.8</priority></url>
+  <url><loc>[CANONICAL URL PLACEHOLDER]/projects.html</loc><priority>0.8</priority></url>
+  <url><loc>[CANONICAL URL PLACEHOLDER]/equipment.html</loc><priority>0.6</priority></url>
+  <url><loc>[CANONICAL URL PLACEHOLDER]/qhse.html</loc><priority>0.6</priority></url>
+  <url><loc>[CANONICAL URL PLACEHOLDER]/why-choose-us.html</loc><priority>0.6</priority></url>
+  <url><loc>[CANONICAL URL PLACEHOLDER]/contact.html</loc><priority>0.7</priority></url>
+</urlset>

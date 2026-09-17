@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="INSERT HERO IMAGE placeholder">
+  <rect width="1600" height="900" fill="#062B63"/>
+  <rect width="1600" height="900" fill="#031B3D" opacity="0.35"/>
+  
+    <defs>
+      <pattern id="grid1421" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0E3E7A" stroke-width="1" opacity="0.35"/>
+      </pattern>
+    </defs>
+    <rect width="1600" height="900" fill="url(#grid1421)"/>
+    
+  
+    <path d="M 34 16 H 16 V 34" stroke="#4D9BCF" stroke-width="2" fill="none"/>
+    <path d="M 1566 16 H 1584 V 34" stroke="#4D9BCF" stroke-width="2" fill="none"/>
+    <path d="M 34 884 H 16 V 866" stroke="#4D9BCF" stroke-width="2" fill="none"/>
+    <path d="M 1566 884 H 1584 V 866" stroke="#4D9BCF" stroke-width="2" fill="none"/>
+    
+  
+        <g transform="translate(800.0,440.0)" stroke="#4D9BCF" stroke-width="2" fill="none" opacity="0.45">
+          <circle cx="0" cy="0" r="126.00000000000001" />
+          <path d="M -214.20000000000002 138.60000000000002 L -63.00000000000001 -25.200000000000003 L -6.300000000000001 44.1 L 75.60000000000001 -75.60000000000001 L 214.20000000000002 138.60000000000002" />
+        </g>
+        
+  <text x="800.0" y="610.0" text-anchor="middle" font-family="monospace" font-size="28.8" letter-spacing="2" fill="#DCEFF7" opacity="0.2">INSERT HERO IMAGE</text>
+  <text x="800.0" y="644.2" text-anchor="middle" font-family="monospace" font-size="19.799999999999997" letter-spacing="1.5" fill="#4D9BCF" opacity="0.18">PATIGAA NIGERIA LIMITED — SITE PHOTOGRAPH</text>
+  <text x="24" y="880" font-family="monospace" font-size="18.0" fill="#4D9BCF" opacity="0.3">1600×900</text>
+</svg>
